@@ -1,6 +1,5 @@
 Prolog Adventure Game
 
-Add the following features to the adventure game from chapter 20 of the textbook.
 1. There is a gate between the fork in the path and the mountaintop. The gate is a
 separate location; that is, the player must move from at (you, fork) to at (you, gate) and
 then to at (you, mountaintop).
